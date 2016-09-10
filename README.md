@@ -6,3 +6,5 @@ de saltos correspondentes de cada rota.
 
 Nele tem uma implementação do algoritmo de Dijkstra que pode ser encontrado no livro TANENBAUM, A.S.: Redes de Computadores, 
 com algumas modificações que foram colocadas para utilização das estruturas criadas nesse programa para representação do grafo.
+
+O programa já possue alguns casos de testes associados, com base na rede que pode ser encontrada na figura deste projeto.
